@@ -1,3 +1,8 @@
+# Arquivos específicos para este projeto
+security.py
+logs/*
+exports/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
